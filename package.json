@@ -1,0 +1,21 @@
+{
+  "name": "prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@prisma/prisma7": "^7.10.1",
+    "@types/node": "^26.6.6",
+    "nodemon": "^3.1.14",
+    "prisma": "^8.0.0-rc.35",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  }
+}
